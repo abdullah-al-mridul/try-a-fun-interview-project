@@ -1,0 +1,16 @@
+html,
+body {
+  background: #03153e;
+  font-size: 1.1rem;
+  font-family: "Roboto", Arial, sans-serif;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
